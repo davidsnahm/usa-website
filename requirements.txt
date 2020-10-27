@@ -31,7 +31,7 @@ colorama==0.3.2
 cov-core==1.14.0
 coverage==3.7.1
 cracklib==2.9.2
-cryptography==0.6.1
+cryptography==3.2
 decorator==3.4.0
 defusedxml==0.4.1
 dh-virtualenv==1.0
