@@ -19,7 +19,7 @@ Twisted-News==14.0.2
 Twisted-Runner==14.0.2
 Twisted-Web==14.0.2
 Twisted-Words==14.0.2
-Werkzeug==0.9.6
+Werkzeug==0.15.3
 argparse==1.2.1
 autolink==0.1.2
 beautifulsoup4==4.3.2
