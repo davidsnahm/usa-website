@@ -72,7 +72,7 @@ pkpgcounter==3.50
 ply==3.4
 progressbar==2.3
 pssh==2.3.1
-py==1.4.25
+py==1.10.0
 pyOpenSSL==0.14
 pyasn1==0.1.7
 pyasn1-modules==0.0.5
