@@ -95,7 +95,7 @@ python-apt==0.9.3.12
 python-dateutil==2.2
 python-debian==0.1.27
 python-debianbts==1.11
-python-ldap==2.4.10
+python-ldap==3.4.0
 pytz==2012rc0
 pyzmq==14.4.0
 reportbug==6.6.3
