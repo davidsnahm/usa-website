@@ -46,7 +46,7 @@ gyp==0.1
 html5lib==0.999
 idna==2.0
 iotop==0.6
-ipython==2.3.0
+ipython==7.16.3
 itsdangerous==0.24
 jaxml==3.1
 joblib==0.8.3
