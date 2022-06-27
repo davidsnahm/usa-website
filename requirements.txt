@@ -99,7 +99,7 @@ python-ldap==2.4.10
 pytz==2012rc0
 pyzmq==14.4.0
 reportbug==6.6.3
-reportlab==3.1.8
+reportlab==3.5.55
 requests==2.4.3
 roman==2.0.0
 scapy==2.2.0
