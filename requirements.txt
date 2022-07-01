@@ -63,7 +63,7 @@ nose2==0.5.0
 numexpr==2.4
 numpy==1.8.2
 ocflib==2017.2.27.20.16
-openpyxl==1.7.0
+openpyxl==2.4.2
 pandas==0.14.1
 paramiko==1.15.1
 pep8==1.5.7
