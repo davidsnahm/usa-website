@@ -43,7 +43,7 @@ flup==1.0.2
 gbp==0.6.22
 gmpy==1.15
 gyp==0.1
-html5lib==0.999
+html5lib==0.999999999
 idna==2.0
 iotop==0.6
 ipython==2.3.0
