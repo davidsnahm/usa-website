@@ -49,7 +49,7 @@ iotop==0.6
 ipython==2.3.0
 itsdangerous==0.24
 jaxml==3.1
-joblib==0.8.3
+joblib==1.2.0
 libvirt-python==1.2.9
 lxml==3.4.0
 matplotlib==1.4.2
